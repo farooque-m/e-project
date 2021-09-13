@@ -1,6 +1,6 @@
 import { Paper, Step, StepLabel, Stepper, Typography } from '@material-ui/core';
 import React, { useState } from 'react';
-import "../css/style.css";
+// import "../css/style.css";
 
 import AddressForm from "./addressForm";
 import Confirmation from './confirmation';
